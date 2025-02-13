@@ -16,12 +16,6 @@ body {
 
   
 }
-h1 {
-  color: rgb(218, 129, 13);
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 2rem;
-  text-align: center;
-}
 
 /* Style the piano to use flex box */
 .piano {
